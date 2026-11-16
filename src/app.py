@@ -7,3 +7,4 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     print(greet("DevOps"))
+print('bad change')
