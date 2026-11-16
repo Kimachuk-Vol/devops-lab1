@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+tmp/
+
+# Секрети
+.env
+*.pem
+*.key
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store
